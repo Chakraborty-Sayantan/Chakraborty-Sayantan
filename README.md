@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-virid-theta-95.vercel.app/](https://portfolio-virid-theta-95.vercel.app/)
 
-- 📫 How to reach me **c.sayantan2000@gmail.com**
+- 📫 How to reach me **c.sayantan2000@gmail.com** & **https://www.linkedin.com/in/sayantan12102000/**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1TQGz1XrDP-helQJtKHKQMNL-b-NeTSnv/view?usp=drive_link](https://drive.google.com/file/d/1TQGz1XrDP-helQJtKHKQMNL-b-NeTSnv/view?usp=drive_link)
 
