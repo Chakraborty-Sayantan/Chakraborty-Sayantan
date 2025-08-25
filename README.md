@@ -3,7 +3,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chakraborty-Sayantan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false&order=2" height="170" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Chakraborty-Sayantan&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
