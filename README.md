@@ -1,69 +1,64 @@
-<h1 align="center">Hi 👋, I'm Sayantan</h1>
-<h3 align="center">Turning web woes into ‘whoa!’ moments—one optimized line at a time!</h3>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chakraborty-Sayantan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false&order=2" height="170" alt="languages graph"  />
-  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Tech+Explorer;Learning+AWS+%26+DevOps" alt="Typing SVG" />
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
-<br clear="both">
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" alt="redux logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="express logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="50" alt="flask logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" alt="django logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" alt="tailwindcss logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=Chakraborty-Sayantan&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
-###
+<br/>
 
-<h3 align="left">About Me:</h3>
+<div align="center"> 
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <h2>Hi 👋, I'm Sayantan</h2>
+        <p>Turning web woes into ‘whoa!’ moments—one optimized line at a time!</p>
+        <br/>
+        <h3>🔭 Current Focus</h3>
+        <ul>
+            <li>Working on <a href="https://github.com/Chakraborty-Sayantan/QToolsAI">Qtools AI</a></li>
+            <li>Learning <strong>AWS & DevOps</strong></li>
+        </ul>
+        <br/>
+        <h3>📫 Connect with me</h3>
+        <p>
+          <a href="https://linkedin.com/in/sayantan-c12" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+          <a href="https://x.com/Sayantan_Codes" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+          <a href="mailto:c.sayantan2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+        </p>
+        <p>👨‍💻 Portfolio: <a href="https://portfolio-virid-theta-95.vercel.app/">View Here</a></p>
+      </td>
+      <td valign="top" width="50%">
+        <div align="center">
+          <img src="https://github-readme-stats.vercel.app/api?username=Chakraborty-Sayantan&show_icons=true&theme=radical&hide_border=true" />
+          <br/>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chakraborty-Sayantan&layout=compact&theme=radical&hide_border=true" />
+          <br/>
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chakraborty-Sayantan&theme=radical&hide_border=true" />
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
-- 🔭 I’m currently working on [Qtools AI](https://github.com/Chakraborty-Sayantan/QToolsAI)
+<br/>
 
-- 🌱 I’m currently learning **AWS & DevOps**
+<h3 align="center">🛠️ Languages and Tools</h3>
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-virid-theta-95.vercel.app/)
+<div align="center">
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind" />
+  <br/>
+  <!-- Backend & DB -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,mongodb,postgres,mysql" />
+  <br/>
+  <!-- DevOps & Tools -->
+  <img src="https://skillicons.dev/icons?i=git,docker,aws,linux,vscode,postman" />
+</div>
 
-- 📫 How to reach me **c.sayantan2000@gmail.com**
+<br/>
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sayantan-c12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayantan-c12" height="30" width="40" /></a>
-<a href="https://x.com/Sayantan_Codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="sayantan-c12" height="30" width="40" /></a>
-</p>
-
-
+<div align="center">
+  <img src="https://github.com/Chakraborty-Sayantan/Chakraborty-Sayantan/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
