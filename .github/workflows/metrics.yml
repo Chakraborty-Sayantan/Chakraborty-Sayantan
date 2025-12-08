@@ -29,6 +29,11 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Calcutta
+          filename: github-metrics.svg
+          output_action: commit
+          committer_branch: metrics
+          committer_message: "chore: update metrics"
+
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
