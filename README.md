@@ -48,8 +48,3 @@
   <img src="https://skillicons.dev/icons?i=git,docker,aws,linux,vscode,postman" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github.com/Chakraborty-Sayantan/Chakraborty-Sayantan/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
